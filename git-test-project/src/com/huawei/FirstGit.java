@@ -2,8 +2,11 @@ package com.huawei;
 
 public class FirstGit {
     public static void main(String[] args) {
+        //hello git
         System.out.println("hello git project");
         test();
+        fly();
+        System.out.println("change the code");
     }
 
     public static void test(){
