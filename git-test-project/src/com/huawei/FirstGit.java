@@ -16,4 +16,8 @@ public class FirstGit {
     public static void fly(){
         System.out.println();
     }
+
+    public static void learn(){
+        System.out.println();
+    }
 }
