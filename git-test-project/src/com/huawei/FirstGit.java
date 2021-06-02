@@ -9,4 +9,8 @@ public class FirstGit {
     public static void test(){
         System.out.println("test");
     }
+
+    public static void fly(){
+        System.out.println();
+    }
 }
